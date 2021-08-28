@@ -11,3 +11,4 @@ Only for deployment purpose
 * Django
 * Django REST Framework
 * HTML/CSS
+* Pycharm
