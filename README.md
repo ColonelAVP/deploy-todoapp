@@ -29,3 +29,4 @@ In this project we will develop a TODO List Application. The Backend is develope
 * [Youtube Video](https://www.youtube.com/watch?v=llbtoQTt4qw)
 
 ## ⭕ Contributions:
+Contributions are always welcomed. Make sure you read the [Contribution]((https://github.com/ColonelAVP/deploy-todoapp/blob/master/Contribution.md)) info before making pull request.
