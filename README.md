@@ -1,15 +1,31 @@
-# To-do List app
-Only for deployment purpose
-> Check the deployed link [here](https://avptodolistapp.pythonanywhere.com/)
+# ▶️ To-do List app
+✅ Check the deployed link [here](https://avptodolistapp.pythonanywhere.com/)
 
-🔸Concepts:
+## ⭕ Intoduction:
+In this project we will develop a TODO List Application. The Backend is developed in Django. And deployed on Python Anywhere platform.
+
+## ⭕ Concepts:
 * API Development
 * Django Development
 * CRUD Operations
-* SDLC
+* Deployment
+* Project Management
 
-🔸Tools & Technologies:
+## ⭕ Tools & Technologies:
 * Django
 * Django REST Framework
 * HTML/CSS
-* Pycharm
+* Requests
+* Python Anywhere
+
+## ⭕ Features:
+* The TODO Application has a interactive UI which makes it more intereseting to use.
+* The Todo List Application has User validation, So You can login using multiple users at one time.
+* The Applicaton has Deadline day option in-order to set a due date for partiular task.
+* A person can search his/her task with the first word of the Task.
+
+## ⭕ References:
+* [todo-list-app using django](https://pythonistaplanet.com/to-do-list-app-using-django/)
+* [Youtube Video](https://www.youtube.com/watch?v=llbtoQTt4qw)
+
+## ⭕ Contributions:
