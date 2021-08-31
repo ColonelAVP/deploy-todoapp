@@ -2,7 +2,7 @@
 ✅ Check the deployed link [here](https://avptodolistapp.pythonanywhere.com/)
 
 ## ⭕ Intoduction:
-In this project we will develop a TODO List Application. The Backend is developed in Django. And deployed on Python Anywhere platform.
+In this project, We will develop an End-to-End Todo List Application using Django Framework for Backend and HTML/CSS for Frontend. The Application has User Validation, Create, Update, Delete, Retrieve operations and also a Deadline Feature which user can set a due date for a particular task. The application is deployed on Python Anywhere Platform.
 
 ## ⭕ Concepts:
 * API Development
