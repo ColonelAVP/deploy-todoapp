@@ -32,9 +32,10 @@ In this project we will develop a TODO List Application. The Backend is develope
 Contributions are always welcomed. Make sure you read the [Contribution](https://github.com/ColonelAVP/deploy-todoapp/blob/master/Contribution.md) info before making pull request.
 
 ## ⭕ Screenshots:
-![alt tag](https://raw.githubusercontent.com/ColonelAVP/Transfer-proejct/master/5.5.png?token=ASV4PCIKHS7TXQD3IDVVC6TBFXTKA)
-![alt tag](https://raw.githubusercontent.com/ColonelAVP/Transfer-proejct/master/1.1.png?token=ASV4PCLBL3HQ7MNNA6THOTTBFXSVK)
-![alt tag](https://raw.githubusercontent.com/ColonelAVP/Transfer-proejct/master/2.2.png?token=ASV4PCN3E4XSUZZXRFC7DS3BFXTFC)
-![alt tag](https://raw.githubusercontent.com/ColonelAVP/Transfer-proejct/master/3.3.png?token=ASV4PCKAAEZBYDKLOBY6O5TBFXTG6)
-![alt tag](https://raw.githubusercontent.com/ColonelAVP/Transfer-proejct/master/4.4.png?token=ASV4PCPDDISZZ2HG7RPFG2DBFXTIY)
+![alt tag](https://raw.githubusercontent.com/ColonelAVP/deploy-todoapp/master/samples/5.5.png)
+![alt tag](https://raw.githubusercontent.com/ColonelAVP/deploy-todoapp/master/samples/1.1.png)
+![alt tag](https://raw.githubusercontent.com/ColonelAVP/deploy-todoapp/master/samples/2.2.png)
+![alt tag](https://raw.githubusercontent.com/ColonelAVP/deploy-todoapp/master/samples/3.3.png)
+![alt tag](https://raw.githubusercontent.com/ColonelAVP/deploy-todoapp/master/samples/4.4.png)
+
 
